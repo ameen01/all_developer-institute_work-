@@ -1,0 +1,7 @@
+import json
+
+
+{"Quarks": ["Up", "Down", "Charm", "Strange", "Top", "Bottom"],
+       "Leptons": ["Electron", "Electron Neutrino", "Mu", "Mu Neutrino", "Tau", "Tau Neutrino"],
+       "Gauge Bosons": ["Photons", "W/Z", "Gluons", "Graviton"], "Scalar Bosons": ["Higgs Boson"]}
+

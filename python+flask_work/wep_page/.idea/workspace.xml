@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="577142a1-5661-4f61-899f-ea8654c17262" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clasc _18/dicrtopr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/game_pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/goo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/jason.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/modles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/tictakto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clasc _18/tru.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_15/character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_15/coloars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_15/new cllo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_16/ameen_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_16/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_16/my_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_20/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_21/flask1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn+own/TKinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn+own/alone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn+own/ameen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn+own/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learn+own/keloger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_flasxk/km.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_flasxk/my_googel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_flasxk/seran.CSS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wep.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/cruncy_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/exr-keyboprd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/kello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/keylogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/kke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../year_class/star_wors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_15/animals.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class_15/animals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_15/ihonue_unlocck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../class_15/ihonue_unlocck.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VnCEIBtYhGX37vJaA48vbZjMM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="577142a1-5661-4f61-899f-ea8654c17262" name="Default Changelist" comment="" />
+      <created>1577879358300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577879358300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1577981242413">
+      <screen x="0" y="33" width="1920" height="917" />
+    </state>
+    <state x="620" y="321" key="com.intellij.ide.util.TipDialog/0.33.1920.917@0.33.1920.917" timestamp="1577981242413" />
+  </component>
+</project>

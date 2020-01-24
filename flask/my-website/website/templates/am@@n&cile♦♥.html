@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='am@@n&cile.css')}}">
+
+    <title>am@@n&celie</title>
+</head>
+<body>
+<nav id="but" class="navbar ">
+     <button class="glow-on-hover" type="button"><a href="{{url_for('home')}}">Home</a></button>
+     <button class="glow-on-hover"  type="button"><a href="{{url_for('tv_show')}}">Tv-Shows</a></button>
+     <button class="glow-on-hover" type="button"><a href="{{url_for('movies')}}">movies</a></button>
+     <button class="glow-on-hover" type="button"><a href="{{url_for('python')}}">python</a></button>
+    <button class="glow-on-hover" type="button"><a href="{{url_for('music')}}">music</a></button>
+    <form class="form-inline ml-auto">
+      <div class="md-form my-0">
+        <input class="form-control" type="text" placeholder="Search" aria-label="Search">
+      </div>
+      <buton href="#!" class="btn btn-dark btn-md my-0 ml-sm-2" type="submit">Search</buton>
+    </form>
+</nav>
+{% block tv_show%}
+{% endblock %}
+</body>
+</html>
